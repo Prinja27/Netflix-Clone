@@ -1,7 +1,10 @@
-# Netflix-GPT
+# Netflix-Clone
 
 - setup our project using create react app
 - setup and used tailwind
+- Header
+- login form
+- Signup form
 
 # features
 
